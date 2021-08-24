@@ -1,0 +1,2 @@
+from numpy import genfromtxt
+my_data = genfromtxt('my_file.csv', delimiter=',')
